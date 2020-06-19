@@ -46,11 +46,8 @@ a {
 }
 
 /* This is the background picture */
-figure.hero {
-    height: 800px;
-    width: 100%;
+figure img {
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
