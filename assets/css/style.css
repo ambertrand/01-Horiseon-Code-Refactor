@@ -45,10 +45,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 /* This is the background picture */
 figure.hero {
     height: 800px;
@@ -94,6 +90,10 @@ img.float-right {
     font-size: 36px;
 }
 
+p {
+    font-size: 16px;
+}
+
 /* This is the aside section */
 aside.benefits {
     margin-right: 20px;
@@ -112,49 +112,17 @@ section.benefit-content {
     color: #ffffff;
 }
 
-/* section.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-section.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
 section.benefit-content h3 {
     padding:12px;
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* section.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-section.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
-
 .benefit-content img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-/* section.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-section.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
 
 /* This is the footer section */
 footer {
